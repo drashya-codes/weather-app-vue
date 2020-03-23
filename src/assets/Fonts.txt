@@ -1,9 +1,0 @@
-Fonts used in this design:
-
-Font: Antipasto
-Author: Zetafonts
-Url: https://www.fontsquirrel.com/fonts/antipasto
-
-Font: Sarina
-Author: Sorkin Type Co
-Url: https://www.fontsquirrel.com/fonts/sarina
